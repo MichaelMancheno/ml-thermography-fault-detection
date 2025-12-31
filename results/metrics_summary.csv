@@ -1,0 +1,2 @@
+model,accuracy,log_loss
+SVM,1.0,0.1899486190051524
