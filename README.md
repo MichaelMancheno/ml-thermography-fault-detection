@@ -1,6 +1,6 @@
 # AI-Powered Predictive Maintenance: Thermography & Electrical Analysis
 
-![Python](https://img.shields.io/badge/Python-3.9+-blue?style=flat&logo=python)
+![Python](https://img.shields.io/badge/Python-3.1+-blue?style=flat&logo=python)
 ![XGBoost](https://img.shields.io/badge/Model-XGBoost-orange?style=flat&logo=xgboost)
 ![Status](https://img.shields.io/badge/Status-Industrial%20Prototype-green)
 
